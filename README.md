@@ -2,7 +2,7 @@
 
 > 🎓 Toisen vuoden ICT-opiskelija @ Savon ammattiopisto  
 > 📍 Kuopio, Finland
-> 🎂 18-vuotias, toisen vuoden opiskelija
+> 🎂 18-vuotias, toisen vuoden opiskelija    
 > 🌐 [Portfolio](https://justus45.github.io/CV/index.html)
 
 ---
