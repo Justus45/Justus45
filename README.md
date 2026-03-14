@@ -1,7 +1,7 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Moi, olen Justus!
 
 > 🎓 Toisen vuoden ICT-opiskelija @ Savon ammattiopisto  
-> 📍 Kuopio, Finland
+> 📍 Kuopio, Finland    
 > 🎂 18-vuotias, toisen vuoden opiskelija    
 > 🌐 [Portfolio](https://justus45.github.io/CV/index.html)
 
