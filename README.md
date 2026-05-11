@@ -1,2 +1,1 @@
-![banner](./banner.svg)
-![stats](https://github-readme-stats.vercel.app/api?username=Justus45&show_icons=true&theme=github_dark_dimmed&bg_color=0d2e0a&title_color=4ade80&text_color=bbf7d0&icon_color=4ade80)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d2e0a,50:1a5c12,100:2d8a1e&height=280&section=header&text=Moi,%20olen%20Justus!%20👋&fontSize=40&fontColor=4ade80&animation=fadeIn&desc=ICT-opiskelija%20·%20Savon%20ammattiopisto%20·%20Kuopio%20🇫🇮%20·%2018v%20·%20justus45.github.io/CV&descSize=18&descAlignY=65&descAlign=50)
