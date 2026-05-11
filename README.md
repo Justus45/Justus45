@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Moi,%20olen%20Justus!&fontSize=50&fontColor=fff&animation=twinkling)
+![banner](./banner.svg)type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Moi,%20olen%20Justus!&fontSize=50&fontColor=fff&animation=twinkling)
 
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Moi, olen Justus!
 
