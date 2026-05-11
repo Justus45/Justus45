@@ -7,8 +7,6 @@
   <img src="https://img.shields.io/badge/🎓_Koulu-Savon_ammattiopisto-166534?style=for-the-badge&color=166534"/>
   <br><br>
   <img src="https://img.shields.io/badge/🌐_Portfolio-justus45.github.io/CV-22c55e?style=for-the-badge&color=22c55e&logo=github&logoColor=white"/>
----
-
 ## 🛠️ Osaaminen
 
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
