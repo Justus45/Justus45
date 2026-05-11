@@ -2,11 +2,13 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/📍_Sijainti-Kuopio,_Finland-166534?style=for-the-badge&color=166534"/>
+  <br><br>
   <img src="https://img.shields.io/badge/🎂_Ikä-18_vuotta-166534?style=for-the-badge&color=166534"/>
+  <br><br>
   <img src="https://img.shields.io/badge/🎓_Koulu-Savon_ammattiopisto-166534?style=for-the-badge&color=166534"/>
+  <br><br>
   <img src="https://img.shields.io/badge/🌐_Portfolio-justus45.github.io/CV-22c55e?style=for-the-badge&color=22c55e&logo=github&logoColor=white"/>
 </p>
-
 ---
 
 ## 🛠️ Osaaminen
