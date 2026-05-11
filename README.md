@@ -1,6 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:052e0a,40:0f5c1a,100:22c55e&height=200&section=header&text=Moi,%20olen%20Justus!%20👋&fontSize=48&fontColor=dcfce7&animation=fadeIn&fontAlignY=55)
 
-<p align="center">
   <img src="https://img.shields.io/badge/📍_Sijainti-Kuopio,_Finland-166534?style=for-the-badge&color=166534"/>
   <br><br>
   <img src="https://img.shields.io/badge/🎂_Ikä-18_vuotta-166534?style=for-the-badge&color=166534"/>
@@ -8,7 +7,6 @@
   <img src="https://img.shields.io/badge/🎓_Koulu-Savon_ammattiopisto-166534?style=for-the-badge&color=166534"/>
   <br><br>
   <img src="https://img.shields.io/badge/🌐_Portfolio-justus45.github.io/CV-22c55e?style=for-the-badge&color=22c55e&logo=github&logoColor=white"/>
-</p>
 ---
 
 ## 🛠️ Osaaminen
