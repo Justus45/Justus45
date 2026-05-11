@@ -1,1 +1,39 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d2e0a,50:1a5c12,100:2d8a1e&height=280&section=header&text=Moi,%20olen%20Justus!%20👋&fontSize=40&fontColor=4ade80&animation=fadeIn&desc=ICT-opiskelija%20·%20Savon%20ammattiopisto%20·%20Kuopio%20🇫🇮%20·%2018v%20·%20justus45.github.io/CV&descSize=18&descAlignY=65&descAlign=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:052e0a,40:0f5c1a,100:22c55e&height=320&section=header&text=Moi,%20olen%20Justus!%20👋&fontSize=48&fontColor=dcfce7&animation=fadeIn&desc=🎓%20ICT-opiskelija%20@%20Savon%20ammattiopisto%20%20·%20%20📍%20Kuopio,%20Finland%20%20·%20%20🎂%2018v%20%20·%20%20🌐%20justus45.github.io/CV&descSize=20&descAlignY=68&descAlign=50&fontAlignY=42)
+
+---
+
+## 🛠️ Osaaminen
+
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Inkscape](https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=inkscape&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Justus45&show_icons=true&theme=chartreuse-dark&bg_color=052e0a&title_color=4ade80&text_color=bbf7d0&icon_color=22c55e&border_color=166534&border_radius=12" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Justus45&layout=compact&theme=chartreuse-dark&bg_color=052e0a&title_color=4ade80&text_color=bbf7d0&border_color=166534&border_radius=12" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Justus45&theme=dark&background=052e0a&ring=22c55e&fire=4ade80&currStreakLabel=4ade80&sideLabels=bbf7d0&dates=86efac&border=166634&border_radius=12"/>
+</p>
+
+---
+
+## 🔗 Ota yhteyttä
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:justus.putkonen@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/Puhelin-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+358456145772)
+[![Portfolio](https://img.shields.io/badge/Portfolio-22c55e?style=for-the-badge&logo=github&logoColor=white)](https://justus45.github.io/CV/index.html)
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:22c55e,100:052e0a&height=120&section=footer)
