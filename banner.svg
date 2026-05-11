@@ -1,0 +1,140 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="280" viewBox="0 0 860 280">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0d2e0a;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#1a5c12;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#2d8a1e;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="cardGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#ffffff;stop-opacity:0.07" />
+      <stop offset="100%" style="stop-color:#ffffff;stop-opacity:0.02" />
+    </linearGradient>
+    <linearGradient id="pillGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#4ade80;stop-opacity:0.25" />
+      <stop offset="100%" style="stop-color:#22c55e;stop-opacity:0.15" />
+    </linearGradient>
+    <linearGradient id="accentLine" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#4ade80;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#22c55e;stop-opacity:0" />
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="860" height="280" rx="16" fill="url(#bgGrad)"/>
+
+  <!-- Subtle grid lines -->
+  <line x1="0" y1="70" x2="860" y2="70" stroke="#ffffff" stroke-opacity="0.04" stroke-width="1"/>
+  <line x1="0" y1="140" x2="860" y2="140" stroke="#ffffff" stroke-opacity="0.04" stroke-width="1"/>
+  <line x1="0" y1="210" x2="860" y2="210" stroke="#ffffff" stroke-opacity="0.04" stroke-width="1"/>
+  <line x1="215" y1="0" x2="215" y2="280" stroke="#ffffff" stroke-opacity="0.06" stroke-width="1"/>
+  <line x1="430" y1="0" x2="430" y2="280" stroke="#ffffff" stroke-opacity="0.04" stroke-width="1"/>
+  <line x1="645" y1="0" x2="645" y2="280" stroke="#ffffff" stroke-opacity="0.04" stroke-width="1"/>
+
+  <!-- Left glow orb -->
+  <circle cx="0" cy="280" r="180" fill="#4ade80" fill-opacity="0.08"/>
+  <!-- Right glow orb -->
+  <circle cx="860" cy="0" r="160" fill="#86efac" fill-opacity="0.06"/>
+
+  <!-- Avatar circle -->
+  <circle cx="82" cy="82" r="52" fill="#ffffff" fill-opacity="0.08" stroke="#4ade80" stroke-width="2" stroke-opacity="0.6"/>
+  <circle cx="82" cy="82" r="44" fill="#166534" fill-opacity="0.6"/>
+  <text x="82" y="92" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="26" font-weight="700" fill="#4ade80">JP</text>
+
+  <!-- Accent line under avatar -->
+  <rect x="40" y="145" width="84" height="2" rx="1" fill="url(#accentLine)"/>
+
+  <!-- Name -->
+  <text x="160" y="58" font-family="'Segoe UI', Arial, sans-serif" font-size="28" font-weight="700" fill="#f0fdf4" letter-spacing="-0.5">Justus Putkonen</text>
+
+  <!-- Wave emoji line -->
+  <text x="160" y="82" font-family="'Segoe UI', Arial, sans-serif" font-size="13" fill="#86efac">Moi! 👋  ICT-opiskelija · 2. vuosi</text>
+
+  <!-- Info row -->
+  <text x="160" y="104" font-family="'Segoe UI', Arial, sans-serif" font-size="12" fill="#4ade80">📍</text>
+  <text x="178" y="104" font-family="'Segoe UI', Arial, sans-serif" font-size="12" fill="#bbf7d0">Kuopio, Finland</text>
+  <text x="290" y="104" font-family="'Segoe UI', Arial, sans-serif" font-size="12" fill="#4ade80">🎂</text>
+  <text x="308" y="104" font-family="'Segoe UI', Arial, sans-serif" font-size="12" fill="#bbf7d0">18 vuotta</text>
+  <text x="390" y="104" font-family="'Segoe UI', Arial, sans-serif" font-size="12" fill="#4ade80">🎓</text>
+  <text x="408" y="104" font-family="'Segoe UI', Arial, sans-serif" font-size="12" fill="#bbf7d0">Savon ammattiopisto</text>
+  <text x="570" y="104" font-family="'Segoe UI', Arial, sans-serif" font-size="12" fill="#4ade80">🌐</text>
+  <text x="588" y="104" font-family="'Segoe UI', Arial, sans-serif" font-size="12" fill="#bbf7d0">justus45.github.io/CV</text>
+
+  <!-- Divider -->
+  <rect x="160" y="115" width="670" height="1" rx="0.5" fill="#4ade80" fill-opacity="0.2"/>
+
+  <!-- Skills label -->
+  <text x="160" y="136" font-family="'Segoe UI', Arial, sans-serif" font-size="10" font-weight="600" fill="#4ade80" letter-spacing="2">🛠  OSAAMINEN</text>
+
+  <!-- Skill pills row -->
+  <!-- HTML -->
+  <rect x="160" y="144" width="52" height="22" rx="11" fill="url(#pillGrad)" stroke="#4ade80" stroke-width="0.8" stroke-opacity="0.5"/>
+  <text x="186" y="159" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="11" font-weight="600" fill="#dcfce7">HTML</text>
+
+  <!-- CSS -->
+  <rect x="218" y="144" width="46" height="22" rx="11" fill="url(#pillGrad)" stroke="#4ade80" stroke-width="0.8" stroke-opacity="0.5"/>
+  <text x="241" y="159" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="11" font-weight="600" fill="#dcfce7">CSS</text>
+
+  <!-- PHP -->
+  <rect x="270" y="144" width="46" height="22" rx="11" fill="url(#pillGrad)" stroke="#4ade80" stroke-width="0.8" stroke-opacity="0.5"/>
+  <text x="293" y="159" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="11" font-weight="600" fill="#dcfce7">PHP</text>
+
+  <!-- JavaScript -->
+  <rect x="322" y="144" width="80" height="22" rx="11" fill="url(#pillGrad)" stroke="#4ade80" stroke-width="0.8" stroke-opacity="0.5"/>
+  <text x="362" y="159" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="11" font-weight="600" fill="#dcfce7">JavaScript</text>
+
+  <!-- SQL -->
+  <rect x="408" y="144" width="44" height="22" rx="11" fill="url(#pillGrad)" stroke="#4ade80" stroke-width="0.8" stroke-opacity="0.5"/>
+  <text x="430" y="159" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="11" font-weight="600" fill="#dcfce7">SQL</text>
+
+  <!-- C# -->
+  <rect x="458" y="144" width="38" height="22" rx="11" fill="url(#pillGrad)" stroke="#4ade80" stroke-width="0.8" stroke-opacity="0.5"/>
+  <text x="477" y="159" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="11" font-weight="600" fill="#dcfce7">C#</text>
+
+  <!-- Inkscape -->
+  <rect x="502" y="144" width="68" height="22" rx="11" fill="url(#pillGrad)" stroke="#4ade80" stroke-width="0.8" stroke-opacity="0.5"/>
+  <text x="536" y="159" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="11" font-weight="600" fill="#dcfce7">Inkscape</text>
+
+  <!-- VS Code -->
+  <rect x="576" y="144" width="62" height="22" rx="11" fill="url(#pillGrad)" stroke="#4ade80" stroke-width="0.8" stroke-opacity="0.5"/>
+  <text x="607" y="159" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="11" font-weight="600" fill="#dcfce7">VS Code</text>
+
+  <!-- Visual Studio -->
+  <rect x="644" y="144" width="88" height="22" rx="11" fill="url(#pillGrad)" stroke="#4ade80" stroke-width="0.8" stroke-opacity="0.5"/>
+  <text x="688" y="159" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="11" font-weight="600" fill="#dcfce7">Visual Studio</text>
+
+  <!-- WordPress -->
+  <rect x="738" y="144" width="82" height="22" rx="11" fill="url(#pillGrad)" stroke="#4ade80" stroke-width="0.8" stroke-opacity="0.5"/>
+  <text x="779" y="159" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="11" font-weight="600" fill="#dcfce7">WordPress</text>
+
+  <!-- Divider -->
+  <rect x="160" y="176" width="670" height="1" rx="0.5" fill="#4ade80" fill-opacity="0.2"/>
+
+  <!-- GitHub stats label -->
+  <text x="160" y="196" font-family="'Segoe UI', Arial, sans-serif" font-size="10" font-weight="600" fill="#4ade80" letter-spacing="2">📊  GITHUB STATS</text>
+
+  <!-- Stat cards -->
+  <rect x="160" y="204" width="118" height="52" rx="8" fill="url(#cardGrad)" stroke="#4ade80" stroke-width="0.8" stroke-opacity="0.3"/>
+  <text x="219" y="223" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="10" fill="#86efac">Commits tänä vuonna</text>
+  <text x="219" y="245" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="20" font-weight="700" fill="#4ade80">–</text>
+
+  <rect x="286" y="204" width="100" height="52" rx="8" fill="url(#cardGrad)" stroke="#4ade80" stroke-width="0.8" stroke-opacity="0.3"/>
+  <text x="336" y="223" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="10" fill="#86efac">Pull Requests</text>
+  <text x="336" y="245" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="20" font-weight="700" fill="#4ade80">–</text>
+
+  <rect x="394" y="204" width="90" height="52" rx="8" fill="url(#cardGrad)" stroke="#4ade80" stroke-width="0.8" stroke-opacity="0.3"/>
+  <text x="439" y="223" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="10" fill="#86efac">Issues</text>
+  <text x="439" y="245" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="20" font-weight="700" fill="#4ade80">–</text>
+
+  <!-- Contact section -->
+  <rect x="500" y="196" width="330" height="68" rx="8" fill="url(#cardGrad)" stroke="#4ade80" stroke-width="0.8" stroke-opacity="0.2"/>
+  <text x="516" y="214" font-family="'Segoe UI', Arial, sans-serif" font-size="10" font-weight="600" fill="#4ade80" letter-spacing="2">🔗  OTA YHTEYTTÄ</text>
+  <text x="516" y="234" font-family="'Segoe UI', Arial, sans-serif" font-size="11" fill="#86efac">✉  justus.putkonen@gmail.com</text>
+  <text x="516" y="252" font-family="'Segoe UI', Arial, sans-serif" font-size="11" fill="#86efac">📞  +358 45 614 5772</text>
+
+  <!-- Bottom left branding -->
+  <text x="22" y="264" font-family="'Segoe UI', Arial, sans-serif" font-size="9" fill="#4ade80" fill-opacity="0.4" letter-spacing="1">JUSTUS45 · GITHUB</text>
+</svg>
